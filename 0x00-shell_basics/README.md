@@ -1,1 +1,1 @@
-Display hidden contents in long format with IDs
+Create a directory in the tmp directory
