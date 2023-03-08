@@ -1,1 +1,1 @@
-Moves all files with capital letter
+Delete all first with a character
