@@ -1,1 +1,1 @@
-Delete the directory in tmp path
+Change directory to the previous one
