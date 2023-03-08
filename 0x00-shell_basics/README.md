@@ -1,1 +1,1 @@
-Script that list all hidden files in long format
+Displays the type of the file
