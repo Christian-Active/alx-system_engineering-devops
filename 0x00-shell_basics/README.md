@@ -1,1 +1,1 @@
-Change directory to the previous one
+Script that list all hidden files in long format
