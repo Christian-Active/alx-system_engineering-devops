@@ -1,1 +1,1 @@
-Script that moves a files to another directory
+Delete the betty file
