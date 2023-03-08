@@ -1,1 +1,1 @@
-Delete the betty file
+Delete the directory in tmp path
