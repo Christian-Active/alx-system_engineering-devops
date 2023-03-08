@@ -1,1 +1,1 @@
-List out the contents of the current directory
+Script that changes the directory to home
