@@ -1,1 +1,1 @@
-Script that list the current user's group
+A script that changes file ownership to betty
